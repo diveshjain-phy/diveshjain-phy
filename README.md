@@ -8,7 +8,7 @@ Currently, I am a Ph.D. candidate at the [National Centre for Radio Astrophysics
 - Super Resolution Reionization Simulations
 - Completing my doctoral thesis :)
 
-#### Education & Learning
+#### Current Learning Focus
 I am enhancing my expertise in foundations of Machine Learning through the [Mathematical Foundations of Machine Learning](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) course.
 
 #### Contact Information

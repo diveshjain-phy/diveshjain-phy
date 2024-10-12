@@ -12,7 +12,7 @@
       <img src="https://github.com/diveshjain-phy/assets/blob/main/robot.gif" width="100%">
     </td>
     <td width="50%">
-      <p><strong>🔬 Research:</strong> Developing simulations to capture patchy CMB anisotropies during the reionization era at <a href="https://www.ncra.tifr.res.in/ncra/people/Academic_StudentsPage?oid=337">NCRA</a>.</p>
+      <p><strong>🔬 Research:</strong> Developing simulations to capture patchy CMB anisotropies during the reionization era at <a href="https://www.ncra.tifr.res.in/ncra/people/](http://www.ncra.tifr.res.in/ncra/people/AcademicMembersList">NCRA</a>.</p>
       <p><strong>🚀 Projects:</strong></p>
       <ul>
         <li>Super Resolution Reionization Simulations</li>

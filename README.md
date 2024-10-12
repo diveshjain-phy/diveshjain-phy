@@ -1,24 +1,55 @@
-### Hello, I'm Divesh Jain
-![My GitHub Banner](https://github.com/diveshjain-phy/assets/blob/main/github_banner.png)
+## 👨‍🚀 Divesh Jain | Research Associate
 
-#### Affiliation
-Currently, I am a Ph.D. candidate at the [National Centre for Radio Astrophysics](https://www.ncra.tifr.res.in/ncra/people/Academic_StudentsPage?oid=337), focusing on developing simulations that capture the patchy CMB anisotropies during the reionization era. Explore my published works on [Google Scholar](https://scholar.google.com/citations?user=zrF5Y1gAAAAJ&hl=en).
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00FFFF&center=true&vCenter=true&width=500&height=100&lines=Computational+Cosmology;Machine+Learning;Statistics">
+</div>
 
-#### Current Projects
-- Super Resolution Reionization Simulations
-- Completing my doctoral thesis :)
+### 🌌 Current Mission
 
-#### Current Learning Focus
-I am enhancing my expertise in foundations of Machine Learning through the [Mathematical Foundations of Machine Learning](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) course.
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/diveshjain-phy/assets/blob/main/robot.gif" width="100%">
+    </td>
+    <td width="50%">
+      <p><strong>🔬 Research:</strong> Developing simulations to capture patchy CMB anisotropies during the reionization era at <a href="https://www.ncra.tifr.res.in/ncra/people/Academic_StudentsPage?oid=337">NCRA</a>.</p>
+      <p><strong>🚀 Projects:</strong></p>
+      <ul>
+        <li>Super Resolution Reionization Simulations</li>
+        <li>SKA Data Challenge 3b</li>
+      </ul>
+      <p><strong>🧠 Learning:</strong> Enhancing ML expertise through <a href="https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/">Mathematical Foundations of Machine Learning</a>.</p>
+    </td>
+  </tr>
+</table>
 
-#### Contact Information
-- Email: [diveshjain.phy@gmail.com](mailto:diveshjain.phy@gmail.com)
-- NCRA Webmail: [djain@ncra.tifr.res.in](mailto:djain@ncra.tifr.res.in)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/diveshjain-phy)
+### 💻 Tech Arsenal
 
-#### Technical Proficiencies
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![FORTRAN](https://img.shields.io/badge/-FORTRAN-black?style=flat-square&logo=fortran)
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=diveshjain-phy&show_icons=true&theme=dark)
+</div>
+
+### 📊 Cosmic Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diveshjain-phy&show_icons=true&theme=radical&title_color=00FFFF&text_color=FF00FF&icon_color=00FFFF&bg_color=0D1117&hide_border=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=diveshjain-phy&theme=radical&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&hide_border=true"/>
+</div>
+
+### 📡 Contact Frequencies
+
+<div align="center">
+  
+Email: [diveshjain.phy@gmail.com](mailto:diveshjain.phy@gmail.com)
+NCRA Webmail: [djain@ncra.tifr.res.in](mailto:djain@ncra.tifr.res.in)
+LinkedIn: [Connect with me](https://www.linkedin.com/in/diveshjain-phy)
+
+
+</div>
+
+
+

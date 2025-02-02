@@ -1,4 +1,4 @@
-## 👨‍🚀 Divesh Jain | Research Associate
+## 👨‍🚀 Divesh Jain | Research Software Engineer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00FFFF&center=true&vCenter=true&width=500&height=100&lines=Computational+Cosmology;Machine+Learning;Statistics">

@@ -12,11 +12,10 @@
       <img src="https://github.com/diveshjain-phy/assets/blob/main/robot.gif" width="100%">
     </td>
     <td width="50%">
-      <p><strong>🔬 Research:</strong> Developing simulations to capture patchy CMB anisotropies during the reionization era at <a href="https://www.ncra.tifr.res.in/ncra/people/](http://www.ncra.tifr.res.in/ncra/people/AcademicMembersList">NCRA</a>.</p>
+      <p><strong>🔬 Research:</strong> Diffusion models</p>
       <p><strong>🚀 Projects:</strong></p>
       <ul>
-        <li>Super Resolution Reionization Simulations</li>
-        <li>SKA Data Challenge 3b</li>
+        <li>Based Neural Network Predictions</li>
       </ul>
       <p><strong>🧠 Learning:</strong> Enhancing ML expertise through <a href="https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/">Mathematical Foundations of Machine Learning</a>.</p>
     </td>
@@ -45,7 +44,7 @@
 <div align="center">
   
 Email: [diveshjain.phy@gmail.com](mailto:diveshjain.phy@gmail.com)
-NCRA Webmail: [djain@ncra.tifr.res.in](mailto:djain@ncra.tifr.res.in)
+NCRA Webmail: [djain@ncra.tifr.res.in](mailto:divesh.jain@manchester.ac.uk)
 LinkedIn: [Connect with me](https://www.linkedin.com/in/diveshjain-phy)
 
 
